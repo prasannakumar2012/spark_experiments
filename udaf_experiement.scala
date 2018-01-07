@@ -1,3 +1,4 @@
+//Databricks
 // Databricks notebook source
 import org.apache.spark.sql.expressions.MutableAggregationBuffer
 import org.apache.spark.sql.expressions.UserDefinedAggregateFunction
