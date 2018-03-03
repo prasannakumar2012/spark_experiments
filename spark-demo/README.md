@@ -1,4 +1,4 @@
-Spark Word Count in Java
+
 
 cd /home/spark
 
